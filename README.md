@@ -38,5 +38,5 @@ Random Forest achieved the best classification accuracy.
 
 ##  Files
 - Wine_Quality_Project.ipynb
-- rapport_wine_quality.docx
+- rapport_wine_quality.pdf
 - winequality-red.csv
